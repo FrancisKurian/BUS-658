@@ -1,6 +1,6 @@
 # BUS-658 Info Systems in Digital Times
 
-## Multi-Agent Automated Review & Credit Evaluation Pipeline
+## POC Multi-Agent Automated Review & Credit Evaluation Pipeline
 This repository contains the source code to deploy a basic multi-agent system on Google Cloud Platform (GCP). The pipeline ingests business reviews, analyzes sentiment, triggers trend and compliance audits, and uses generative AI for a final evaluation cross-check.
 ## POC Overview
 
